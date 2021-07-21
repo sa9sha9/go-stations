@@ -17,3 +17,6 @@
 
 node_modules
 .DS_Store
+
+# api tokenが含まれてしまっているため
+.techtrain/*.toml
